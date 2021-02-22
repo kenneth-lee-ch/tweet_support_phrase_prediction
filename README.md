@@ -102,7 +102,7 @@ Advances in neural information processing systems, pp. 1019–1027, 2016.
 
 - Hochreiter, S. and Schmidhuber, J. Long short-term memory. Neural computation, 9(8):1735–1780, 1997.
 
--Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., and Salakhutdinov, R. Dropout: a simple way to prevent
+- Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., and Salakhutdinov, R. Dropout: a simple way to prevent
 neural networks from overfitting. The journal of machine learning research, 15(1):1929–1958, 2014.
 
 
